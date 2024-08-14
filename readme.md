@@ -55,7 +55,6 @@ It uses electromechanical devices to provide exact hand configuration, and posit
 In vision-based methods, the computer webcam is the input device for observing the information of hands and/or fingers. The Vision Based methods require only a camera, thus realizing a natural interaction between humans and computers without the use of any extra devices, thereby reducing costs.  The main challenge of vision-based hand detection ranges from coping with the large variability of the human hand’s appearance due to a huge number of hand movements, to different skin-color possibilities as well as to the variations in viewpoints, scales, and speed of the camera capturing the scene. 
 
  
-![Screenshot 1](./video/ASL_recognition.mp4)
 
  
 
