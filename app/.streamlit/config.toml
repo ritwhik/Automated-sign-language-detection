@@ -1,0 +1,5 @@
+[theme]
+base = "dark"
+primaryColor = "#1a73e8"  # Change the primary color of your app
+backgroundColor = "#0e0e0e"  # Set the background color
+textColor = "#ffffff"  # Set the text color

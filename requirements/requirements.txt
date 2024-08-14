@@ -1,0 +1,14 @@
+textblob
+gtts
+streamlit
+flask
+numpy
+tensorflow
+scikit-learn
+opencv-python
+symspellpy
+language_tool_python
+pyttsx3
+nltk
+tqdm
+matplotlib
