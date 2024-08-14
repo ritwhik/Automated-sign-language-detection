@@ -176,11 +176,11 @@ probability. The label with the highest probability will treated to be the predi
 
 So when model will classify [aemnst] in one single class using mathematical operation on hand landmarks we will classify further into single alphabet a or e or m or n or s or t. 
 
--Finally, we got **97%** Accuracy (with and without clean background and proper lightning conditions) through our method. And if the background is clear and there is good lightning condition then we got even **99%** accurate resul
+-Finally, we got **97%** Accuracy (with and without clean background and proper lightning conditions) through our method. And if the background is clear and there is good lightning condition then we got even **99%** accurate result
 
-t
+
 ![Screenshot 1](./images/prediction.png)
- ng)
+ 
 
 **Text To Speech Translation:**
 
