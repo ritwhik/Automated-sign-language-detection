@@ -56,7 +56,6 @@ In vision-based methods, the computer webcam is the input device for observing t
 
  
 ![Screenshot 1](./video/ASL_recognition.mp4)
-![Screenshot (224)](https://user-images.githubusercontent.com/99630855/201489523-0804652e-1a38-4242-ad69-8bfafb25f55a.png)
 
  
 
